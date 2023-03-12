@@ -1,0 +1,1 @@
+welcome<?php /**PATH C:\Users\ceyha\OneDrive\Masaüstü\Library\resources\views/welcome.blade.php ENDPATH**/ ?>
